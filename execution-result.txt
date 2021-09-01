@@ -1,0 +1,26 @@
+----> 07:44:16 Wed Sep 01 olli@dell15 ~/bin/cpp/geekbrains/OOP/homework3/build
+$ ./hw3t1 
+----> 07:44:38 Wed Sep 01 olli@dell15 ~/bin/cpp/geekbrains/OOP/homework3/build
+$ ./hw3t2
+company: passengerCar, model: passengerCar
+PassengerCar()
+company: Bus, model: Bus
+Bus()
+Minivan()
+company(PassengerCar): passengerCar, model(Bus): Bus
+----> 07:44:40 Wed Sep 01 olli@dell15 ~/bin/cpp/geekbrains/OOP/homework3/build
+$ ./hw3t3
+1 / 2
+4 / 4
+0 / 4
+1 / 4
+4 / 4
+1/2 и 1/2 равны.
+1/2 больше либо равно 1/4.
+1/2 больше 1/4.
+1/4 меньше либо равно 1/2.
+1/4 меньше 1/2.
+-1 / 2
+----> 07:44:43 Wed Sep 01 olli@dell15 ~/bin/cpp/geekbrains/OOP/homework3/build
+$ 
+
